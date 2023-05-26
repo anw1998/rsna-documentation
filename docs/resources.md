@@ -28,8 +28,13 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/M3ZWfamWrBM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Version Control
+* [GitHub Desktop](https://docs.github.com/en/desktop/installing-and-configuring-github-desktop/overview/getting-started-with-github-desktop)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RGOj5yH7evk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## 3D Slicer
+* [3D Slicer Tutorial](https://www.youtube.com/playlist?list=PLeaIM0zUlEqswa6Pskg9uMq15LiWWYP39)
+* [ICH_SEGMENTER_V2](https://github.com/laurentletg/ICH_SEGMENTER_V2) : extension de segmentation (ICH, IVH, PHE) pour l'équipe de Dr Létourneau-Guillon
 
 ## HPC (CCDB)
 ### Official Compute Canada Wiki:
