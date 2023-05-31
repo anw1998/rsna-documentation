@@ -35,6 +35,7 @@
 ## 3D Slicer
 * [3D Slicer Tutorial](https://www.youtube.com/playlist?list=PLeaIM0zUlEqswa6Pskg9uMq15LiWWYP39)
 * [ICH_SEGMENTER_V2](https://github.com/laurentletg/ICH_SEGMENTER_V2) : extension de segmentation (ICH, IVH, PHE) pour l'équipe de Dr Létourneau-Guillon
+* [Segment_Quality_Control](https://github.com/anw1998/Segment_Quality_Control) : outil de vérification et de correction du mapping segment/label (à exécuter lorsque toutes les annotations d'un répertoire sont faites!)
 
 ## HPC (CCDB)
 ### Official Compute Canada Wiki:
