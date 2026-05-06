@@ -51,6 +51,10 @@ nav:
   - Home: index.md
   - Research: research.md
   - Team: team.md
+  - MS Lesion Segmentation:
+      - ms/index.md
+      - Segmentation Tools: ms/tools.md
+      - Public Datasets: ms/datasets.md
   - Resources:
       - resources/index.md
       - Neuroradiology: resources/neuroradiology.md
